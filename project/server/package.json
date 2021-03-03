@@ -15,7 +15,7 @@
     "axios": "0.19.0",
     "cors": "^2.8.5",
     "mongodb": "^3.4.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "fabric-ca-client": "~1.4.0",
     "fabric-network": "~1.4.0"
   }
